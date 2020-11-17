@@ -393,6 +393,13 @@ header .fa-chevron-down {
   font-size: 22px;
   color: gold;
 }
+span.test1 {
+  writing-mode:vertical-rl;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: gold;
+  
+}
 
 #achievements .achievement-text {
   font-size: 18px;
