@@ -374,6 +374,13 @@ header .fa-chevron-down {
 #achievements .jumbotron h2 {
   color: gold;
 }
+div.ex1 {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+  text-transform: uppercase;
+  text-align: center;
+  color: gold;
+}
 #achievements .achievement-list {
   padding: 20px 0;
 }
