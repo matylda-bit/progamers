@@ -400,7 +400,7 @@ span.test1 {
   font-size: 18px;
   text-transform: uppercase;
   color: gold;
-  
+  text-decoration-line: overline underline;
 }
 
 #achievements .achievement-text {
