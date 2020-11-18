@@ -373,13 +373,7 @@ header .fa-chevron-down {
 }
 #achievements .jumbotron h2 {
   color: gold;
-}
-div.ex1 {
-  direction: rtl;
-  unicode-bidi: bidi-override;
-  text-transform: uppercase;
-  text-align: center;
-  color: gold;
+
 }
 #achievements .achievement-list {
   padding: 20px 0;
@@ -476,42 +470,7 @@ span.test1 {
 
 #contact .contact-us .contact-item .social-media a:hover {
   color: #ccc;
-}
 
-#facebook-icon {
-  background: gold;
-  text-indent: -999em;
-  width: 96px;
-  height: 110px;
-  box-sizing: content-box;
-  border-radius: 5px;
-  position: relative;
-  overflow: hidden;
-  border: 15px solid gold;
-  border-bottom: 0;
-  margin-left: 130px;
-}
-#facebook-icon:before {
-  content: "/20";
-  position: absolute;
-  background:gold;
-  width: 40px;
-  height: 90px;
-  bottom: -30px;
-  right: -37px;
-  border: 20px solid #eee;
-  border-radius: 25px;
-  box-sizing: content-box;
-}
-#facebook-icon:after {
-  content: "/20";
-  position: absolute;
-  width: 55px;
-  top: 50px;
-  height: 20px;
-  background: #eee;
-  right: 5px;
-  box-sizing: content-box;
 
 }
 footer {
